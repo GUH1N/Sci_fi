@@ -1,0 +1,111 @@
+body{
+    background-image: url("https://wallpaperaccess.com/full/220303.jpg");
+    background-size: cover;
+}
+#Max{
+    border: 2px solid rgba(76, 175, 80, 0.3);
+    background-color: rgba(76, 175, 80, 0.3);
+    margin: auto;
+    margin-top: 30px;
+    width: 75%;
+    height: 500px;
+}
+td{
+    width: 100px;
+    height: 170px;
+}
+#row{
+    border: 3px solid black;
+    background-color: bisque;
+    color: #000;
+    height: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#Max_H{
+    border: 2px solid red;
+    background-color: red;
+    color: white;
+    font-size: xx-large;
+}
+#Min1_H{
+    font-size: xx-large;
+    font-style: italic;
+    color:black;
+}
+#Min2_H{
+    font-size: xx-large;
+    font-style: italic;
+    color: black;
+}
+#Min1{
+    margin: auto;
+    width: 65%;
+}
+#Min2{
+    margin: auto;
+    width: 65%;
+}
+#MF{
+    background-image: url("https://m.media-amazon.com/images/M/MV5BMmVkMDhiYjgtNjQxMC00NzA4LWFmYTAtNTgxODc3MDQxMjk4XkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_.jpg");
+    background-size: cover;
+}
+#Dune{
+    background-image: url("https://m.media-amazon.com/images/M/MV5BN2FjNmEyNWMtYzM0ZS00NjIyLTg5YzYtYThlMGVjNzE1OGViXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg");
+    background-size: cover;
+}
+#Grav{
+    background-image: url("https://m.media-amazon.com/images/M/MV5BNjE5MzYwMzYxMF5BMl5BanBnXkFtZTcwOTk4MTk0OQ@@._V1_FMjpg_UX1000_.jpg");
+    background-size: cover;
+}
+#TT{
+    background-image: url("https://m.media-amazon.com/images/M/MV5BMzU3YWYwNTQtZTdiMC00NjY5LTlmMTMtZDFlYTEyODBjMTk5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg");
+    background-size: cover;
+}
+#inception{
+    background-image: url("https://m.media-amazon.com/images/I/81p+xe8cbnL._AC_SY741_.jpg");
+    background-size: cover;
+}
+#Interstellar{
+    background-image: url("https://m.media-amazon.com/images/M/MV5BZjdkOTU3MDktN2IxOS00OGEyLWFmMjktY2FiMmZkNWIyODZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg");
+    background-size: cover;
+}
+#Pacific{
+    background-image: url("https://m.media-amazon.com/images/M/MV5BMTY3MTI5NjQ4Nl5BMl5BanBnXkFtZTcwOTU1OTU0OQ@@._V1_.jpg");
+    background-size: cover;
+}
+#Geostorm{
+    background-image: url("https://m.media-amazon.com/images/M/MV5BOTU4MTE2NDU3M15BMl5BanBnXkFtZTgwNjY3MjU1MzI@._V1_.jpg");
+    background-size: cover;
+}
+#Foundation{
+    background-image: url("https://m.media-amazon.com/images/M/MV5BODgxNTExNjktN2VmNS00MWM0LWI3ZjYtNjlhZGIyYTM0YjM0XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_FMjpg_UX1000_.jpg");
+    background-size: cover;
+}
+#Dark{
+    background-image: url("https://upload.wikimedia.org/wikipedia/en/d/da/DarkNetflixPosterEnglish.jpg");
+    background-size: cover;
+}
+#Westworld{
+    background-image: url("https://m.media-amazon.com/images/M/MV5BZDg1OWRiMTktZDdiNy00NTZlLTg2Y2EtNWRiMTcxMGE5YTUxXkEyXkFqcGdeQXVyMTM2MDY0OTYx._V1_FMjpg_UX1000_.jpg");
+    background-size: cover;
+}
+#The{
+    background-image: url("https://m.media-amazon.com/images/M/MV5BNTlhMWQyYTAtZjFjMS00M2UzLThiNzMtNTVhN2FkZjAwZWY2XkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg");
+    background-size: cover;
+}
+#Invasion{
+    background-image: url("https://m.media-amazon.com/images/M/MV5BMGFmMTM0ZGItYjlhZi00OGU2LWJjODctY2EyODAyYmQwYmZlXkEyXkFqcGdeQXVyMTA3NTQ1NDEw._V1_.jpg");
+    background-size: cover;
+}
+#Sense8{
+    background-image: url("https://m.media-amazon.com/images/M/MV5BMjA4MTEyMzcwMl5BMl5BanBnXkFtZTgwMTIwODczNTM@._V1_.jpg");
+    background-size: cover;
+}
+#Expanse{
+    background-image: url("https://m.media-amazon.com/images/M/MV5BZDVmMDljM2QtZDkzZC00ZDg2LWFiMGItZjNiNjliZjg2MGEzXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_FMjpg_UX1000_.jpg");
+    background-size: cover;
+}
+#Umbrella{
+    background-image: url("https://m.media-amazon.com/images/M/MV5BOTdlODM0MTAtMzRiZi00MTQxLWE0MGUtNTNjOGZjNjAzN2E0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg");
+    background-size: cover;
+}
